@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FinQuest - Learn, Invest, and Grow Smartly
 
 A comprehensive financial education web application designed for Indian students and beginners to learn about investing, stock markets, and financial literacy.
@@ -230,3 +231,6 @@ For support and queries, please contact the development team or create an issue 
 ---
 
 **FinQuest** - Empowering financial literacy for the next generation of Indian investors! 🇮🇳💰📈
+=======
+# FinIQ
+>>>>>>> 0325b43ce3ab2b9661df1cf121e20231a2e4e689
