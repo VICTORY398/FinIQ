@@ -1,0 +1,32 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom styles */
+.gradient-bg {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+}
+
+.card {
+  @apply bg-white rounded-xl p-6 shadow-lg border border-gray-100;
+}
+
+.btn-primary {
+  @apply bg-blue-600 text-white px-6 py-3 rounded-lg hover:bg-blue-700 transition-colors font-medium;
+}
+
+.text-primary {
+  @apply text-blue-600;
+}
+
+.text-secondary {
+  @apply text-green-600;
+}
+
+.text-profit {
+  @apply text-green-600;
+}
+
+.text-loss {
+  @apply text-red-600;
+}

@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "finiq-17bbf"
+  },
+  "targets": {
+    "finiq-17bbf": {
+      "hosting": {
+        "finiq": [
+          "finiq-17bbf"
+        ]
+      }
+    }
+  }
+}
